@@ -1,0 +1,25 @@
+/* Styling */
+
+/* All odd elements */
+p {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: pink;
+}
+
+/* Second element */
+#two {
+  color: blue;
+  font-size: 36px;
+}
+
+/* Additional styling for third element  */
+.class-3 {
+  font-size: 24px;
+}
+
+/* styling for fourth element */
+#id-4 {
+  background-color: rgb(108, 228, 108);
+  font-size: 24px;
+  font-weight: bold;
+}
